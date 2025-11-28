@@ -1,0 +1,5 @@
+{
+  "name": "Office Supply Manager",
+  "description": "A vanilla JS Single Page Application for managing office supply requisitions with local storage persistence and dashboard analytics.",
+  "requestFramePermissions": []
+}
